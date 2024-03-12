@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 Improving skills with **React.js projects**.
+- 🔭 Improving skills with **React.js**.
 <img align="right" style="width:16rem; height:auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🌱 Delving into **web security** to enhance expertise.
